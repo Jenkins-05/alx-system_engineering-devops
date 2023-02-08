@@ -10,3 +10,4 @@
 9-firstdirdeletion:Delete the directory my_first_directory that is in the /tmp directory.
 10-back:script that changes the working directory to the previous one
 11-lists:
+12-file_type
