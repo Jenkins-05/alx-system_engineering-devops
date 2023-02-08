@@ -11,3 +11,4 @@
 10-back:script that changes the working directory to the previous one
 11-lists:
 12-file_type
+13-symbolic_link
