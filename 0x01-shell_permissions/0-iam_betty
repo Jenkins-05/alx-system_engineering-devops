@@ -1,0 +1,4 @@
+#!/bin/bash
+#!/bin/bash 
+su betty [enter]
+cat 0-iam_betty
