@@ -10,5 +10,7 @@
 9 sets the mode of the file hello to this
 10 sets the mode of the file hello the same as olleh’s mode
 11 adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
-12 creates a directory called my_dir with permissions 751 in the working directory 
+12 creates a directory called my_dir with permissions 751 in the working directory
+13 changes the group owner to school for the file hello
+14 changes the owner to vincent and the group owner to staff for all the files and directories in the working directory. 
 
