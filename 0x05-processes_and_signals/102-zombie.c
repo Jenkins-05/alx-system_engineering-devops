@@ -1,5 +1,3 @@
-102-zombie.c
-
 /*
  * File: 102-zombie.c
  * Auth: Brennan D Baraban
