@@ -1,0 +1,34 @@
+Found a swap file by the name "~/Downloads/.manage_my_process.swp"
+          owned by: jenkins   dated: Fri Mar 08 12:14:16 2024
+         file name: ~jenkins/Downloads/manage_my_process
+          modified: no
+         user name: jenkins   host name: jenkins-ThinkPad-X240
+        process ID: 82241 (STILL RUNNING)
+While opening file "/home/jenkins/Downloads/manage_my_process"
+             dated: Fri Mar 08 12:05:40 2024
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /home/jenkins/Downloads/manag
+e_my_process"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/home/jenkins/Downloads/.mana
+ge_my_process.swp"
+    to avoid this message.
+
+Swap file "~/Downloads/.manage_my_process.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: 
+Swap file "~/Downloads/.manage_my_process.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: 
+
+
+
+
+
+
+
+
+Swap file "~/Downloads/.manage_my_process.swp" already exists!
+[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: 
